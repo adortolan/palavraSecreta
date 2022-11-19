@@ -1,2 +1,2 @@
 # palavraSecreta
-Jogo de palavra secretas desenvolvido em ReactJs
+Jogo de palavras secretas desenvolvido em ReactJs
